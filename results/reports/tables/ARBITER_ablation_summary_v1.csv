@@ -1,0 +1,3 @@
+variant,refCoverage,refSelectiveAccuracy,refConservativeAccuracy,fracNaTUncertain
+locked_fusion_no_unc_gate,1,1,1,0.181818181818182
+locked_arbiter_2ch,1,1,1,0.636363636363636

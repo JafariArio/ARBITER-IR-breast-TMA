@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "ARBITER: Two-channel uncertainty-aware infrared spectral arbitration for breast TMA analysis"
+message: "If you use this repository, please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: Jafari
+    given-names: Ario
+  - family-names: Barhemat
+    given-names: Samira
+  - family-names: Aili
+    given-names: Daniel
+  - family-names: Ederth
+    given-names: Thomas
+license: MIT
+repository-code: "https://github.com/USERNAME/ARBITER"
+version: "1.0.0"
+date-released: "2026-06-26"

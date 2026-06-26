@@ -1,0 +1,6 @@
+Variant,ReferenceCoverage_pct,ReferenceSelectiveAccuracy_pct,ReferenceConservativeAccuracy_pct,NaTCancerLike_pct,NaTHealthyLike_pct,NaTUncertain_pct
+baseline_only,100,100,100,63.6,27.3,9.1
+prototype_only,100,100,100,0,36.4,63.6
+equal_weight_fusion,100,100,100,27.3,27.3,45.5
+locked_fusion_no_unc_gate,100,100,100,54.5,27.3,18.2
+locked_arbiter_2ch,100,100,100,9.1,27.3,63.6
